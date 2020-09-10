@@ -1,5 +1,5 @@
 # TEST
-it is a email hack
+it is a email auto tool
 you need to change your email setting first
 in https://myaccount.google.com/ go to 
 Security
